@@ -1,0 +1,2 @@
+# Convolutional-Neural-Network-for-the-classification-of-independent-components-of-rs-fMRI
+En este repositorio están contenidos todos los códigos utilizados para entrenar una red neuronal convolucional para la clasificación de artefactos en imágenes de resonancia magnética funcional en estado de reposo. La clasificación se realiza sobre los mapas espaciales obtenidos mediante el análisis de componentes independientes ICA.
